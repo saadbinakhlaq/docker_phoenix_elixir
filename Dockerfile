@@ -11,7 +11,8 @@ RUN apk --no-cache --update add \
   wget \
   curl \
   bash \
-  inotify-tools \ 
+  inotify-tools \
+  git \
   postgresql \
   postgresql-client
 
